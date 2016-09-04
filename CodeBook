@@ -1,5 +1,5 @@
-## Code Book
-_This code book displays the resulting data fields in TidySetTwo.txt_
+# Code Book
+## This code book displays the resulting data fields in TidySetTwo.txt
 1. Identification
   1. subjectID - The ID of the test subject
   2. activityID - The type of activity performed. The measurements correspond to it. 
