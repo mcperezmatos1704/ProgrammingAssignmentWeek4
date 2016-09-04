@@ -1,6 +1,6 @@
 # **Programming Assignment Week 4** 
 ## Peer review project 
- * This repository contains the course project for the _Getting and Cleaning Data_ course, on _Cousera_ *
+* This repository contains the course project for the _Getting and Cleaning Data_ course, on _Cousera_ *
 The R script named "run_analysis.R" does the following:
 1. Check if dataset already exists in workind directory, if not it downloads and unzips it.
 2. Merge the training and the test sets to create one data set.
